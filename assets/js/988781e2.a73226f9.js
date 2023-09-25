@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocumentation=self.webpackChunkdocumentation||[]).push([[493],{6800:e=>{e.exports=JSON.parse('{"title":"API","slug":"/category/api","permalink":"/docs/category/api","navigation":{"previous":{"title":"SDN/SDVN","permalink":"/docs/concepts/sdnsdvn"},"next":{"title":"API","permalink":"/docs/api/"}}}')}}]);

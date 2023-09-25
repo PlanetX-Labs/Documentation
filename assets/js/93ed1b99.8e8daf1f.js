@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocumentation=self.webpackChunkdocumentation||[]).push([[794],{2872:t=>{t.exports=JSON.parse('{"title":"Concepts","slug":"/category/concepts","permalink":"/docs/category/concepts","navigation":{"previous":{"title":"Introduction","permalink":"/docs/getting-started/intro"},"next":{"title":"SDN/SDVN","permalink":"/docs/concepts/sdnsdvn"}}}')}}]);
